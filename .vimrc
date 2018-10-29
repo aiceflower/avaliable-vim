@@ -383,6 +383,7 @@ let g:AutoOpenWinManager = 1
 let g:winManagerWindowLayout='FileExplorer|TagList'
 "设置高度
 let g:bufExplorerMaxHeight=30
+let g:miniBufExplorerMoreThanOne=0
 
 "打开快捷键
 nmap wm :WMToggle<cr>
