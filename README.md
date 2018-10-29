@@ -2,7 +2,7 @@
 简单有用的便携式vim插件配置
 
 ### 效果图   
-![image](https://github.com/aiceflower/avaliable-vim/master/image.png)
+![image](https://github.com/aiceflower/avaliable-vim/blob/master/image.png)
 
 ### 一、安装
 
