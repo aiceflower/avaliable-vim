@@ -1,0 +1,11 @@
+# .bashrc.before
+
+
+# User specific aliases and functions
+alias crontab='crontab -i'
+alias rm='rm -i'
+alias cp='cp -i'
+alias mv='mv -i'
+alias vi='vim'
+export EDITOR=/usr/bin/vim
+export PYTHONSTARTUP=$HOME/.vim/tools/pythonstartup.py    

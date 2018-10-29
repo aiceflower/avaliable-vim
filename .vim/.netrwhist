@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/usr/local/src/ddkk/daydaykk_crawl/apps'
+let g:netrw_dirhist_2='/usr/local/src/ddkk/daydaykk_crawl/apps/crawler'
+let g:netrw_dirhist_3='/usr/local/src/ddkk/daydaykk_crawl/apps/crawler/daydaykk'
+let g:netrw_dirhist_4='/tmp/ddkk/logs/cdn'
+let g:netrw_dirhist_5='/usr/local/src/ddkk/daydaykk_crawl/apps/crawler/daydaykk/spiders'
+let g:netrw_dirhist_6='/data4/video/download/youkuvideo_list'
+let g:netrw_dirhist_7='/usr/local/src/ddkk/daydaykk_crawl/apps/crawler/daydaykk/spiders'
+let g:netrw_dirhist_8='/data4/video/download/imdbvideo'
+let g:netrw_dirhist_9='/data4/video/download/imdbvideo/20170209/0462465'
