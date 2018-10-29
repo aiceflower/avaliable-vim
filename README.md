@@ -19,5 +19,5 @@
 
 #### 注：
 如果提示没有ctags则需要安装：     
-  sudo apt-get install ctags (ubuntu)
+  sudo apt-get install ctags (ubuntu)    
   yum install ctags (RedHat系列)
