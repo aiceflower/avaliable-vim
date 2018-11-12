@@ -412,3 +412,11 @@ map <C-H> <C-W>h<C-W>_
 map <C-L> <C-W>l<C-W>_
 map <C-K> <C-W>k<C-W>_
 map vv $
+" Use vim_shortcut_key config if available {
+    if filereadable(expand("~/.vim_shortcut_key1"))
+        source ~/.vim_shortcut_key 
+    endif
+" }
+
+"配置文件模板
+autocmd BufNewFile *.cpp 0r ~/.vim/vim_file_template/cpp.temp
